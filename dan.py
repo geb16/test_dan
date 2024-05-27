@@ -1,6 +1,6 @@
 #dan
 love= str(input("Do you love github:"))
-if love=="yes":
+if love=="yes" or love=="yeah":
     print("Enjoy github")
     print("And use it professionally")
 else:
