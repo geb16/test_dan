@@ -5,4 +5,4 @@ if love=="yes" or love=="ye":
     print("And use it professionally")
 else:
     print("it's a good platfrom to use it")
-    print( "Try it to include as one of your wroking places")
+    print( "Try to include it as one of your wroking places")
